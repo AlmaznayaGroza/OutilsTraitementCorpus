@@ -29,6 +29,6 @@
   * analyse des stratégies d'adaptation: identifier les mécanismes d'adaptation mis en place par les victimes pour gérer l'impact psychologique de ce qu'elles ont vécu;
   * analyse des métaphores et images utilisées par les personnes pour conceptualiser leur expérience psychologique.
 
-* **Type de données exploitées**: les témoignages textuels courts issus du corpus annoté "Paye Ton Corpus", qui recense 3021 posts pour 294954 mots au total.
+* **Type de données exploitées**: les témoignages textuels courts issus du corpus annoté ["Paye Ton Corpus"](https://www.ortolang.fr/market/corpora/payetoncorpus), qui recense 3021 posts pour 294954 mots au total.
 
 * Ce corpus, qui est hébergé sur la plateforme Ortolang, est accessible gratuitement pour la recherche académique.
