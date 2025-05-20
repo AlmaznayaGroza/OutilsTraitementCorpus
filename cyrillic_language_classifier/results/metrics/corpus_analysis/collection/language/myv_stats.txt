@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR myv ===
+Temps d'exécution: 76.2 minutes
+Total d'articles: 320
+Total de tokens: 70520/80000 (88.1%)
+Répartition réelle des tokens:
+- Catégories principales: 4221 tokens (6.0%)
+- Sous-catégories: 26258 tokens (37.2%)
+- Articles aléatoires: 40041 tokens (56.8%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 3126 tokens (74.1%)
+- Articles aléatoires: 1095 tokens (25.9%)
+
+Statistiques par catégorie:
+- Culture: 5965 tokens (8.5%)
+  * 6 articles principaux (1178 tokens)
+  * 11 articles de sous-catégories (4787 tokens)
+  * 9 articles disponibles au total
+- History: 5726 tokens (8.1%)
+  * 6 articles principaux (1139 tokens)
+  * 23 articles de sous-catégories (4587 tokens)
+  * 6 articles disponibles au total
+- Geography: 4708 tokens (6.7%)
+  * 0 articles principaux (0 tokens)
+  * 27 articles de sous-catégories (4708 tokens)
+  * 0 articles disponibles au total
+- Politics: 1250 tokens (1.8%)
+  * 0 articles principaux (0 tokens)
+  * 1 articles de sous-catégories (1250 tokens)
+  * 0 articles disponibles au total
+- People: 6182 tokens (8.8%)
+  * 5 articles principaux (1336 tokens)
+  * 10 articles de sous-catégories (4846 tokens)
+  * 5 articles disponibles au total
+- Science: 5142 tokens (7.3%)
+  * 0 articles principaux (0 tokens)
+  * 16 articles de sous-catégories (5142 tokens)
+  * 0 articles disponibles au total
+- Sports: 1506 tokens (2.1%)
+  * 4 articles principaux (568 tokens)
+  * 8 articles de sous-catégories (938 tokens)
+  * 4 articles disponibles au total
+
+Longueur moyenne des articles: 220.4 tokens/article
+Articles limités à 1250 tokens: 4 (1.2%)

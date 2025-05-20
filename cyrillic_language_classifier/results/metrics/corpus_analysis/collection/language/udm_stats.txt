@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR udm ===
+Temps d'exécution: 71.4 minutes
+Total d'articles: 328
+Total de tokens: 74894/90000 (83.2%)
+Répartition réelle des tokens:
+- Catégories principales: 6204 tokens (8.3%)
+- Sous-catégories: 32668 tokens (43.6%)
+- Articles aléatoires: 36022 tokens (48.1%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 3073 tokens (49.5%)
+- Articles aléatoires: 3131 tokens (50.5%)
+
+Statistiques par catégorie:
+- Culture: 6587 tokens (8.8%)
+  * 5 articles principaux (923 tokens)
+  * 21 articles de sous-catégories (5664 tokens)
+  * 5 articles disponibles au total
+- History: 7112 tokens (9.5%)
+  * 6 articles principaux (1636 tokens)
+  * 16 articles de sous-catégories (5476 tokens)
+  * 6 articles disponibles au total
+- Geography: 6321 tokens (8.4%)
+  * 6 articles principaux (802 tokens)
+  * 27 articles de sous-catégories (5519 tokens)
+  * 6 articles disponibles au total
+- Politics: 4659 tokens (6.2%)
+  * 3 articles principaux (435 tokens)
+  * 15 articles de sous-catégories (4224 tokens)
+  * 3 articles disponibles au total
+- People: 5188 tokens (6.9%)
+  * 0 articles principaux (0 tokens)
+  * 17 articles de sous-catégories (5188 tokens)
+  * 0 articles disponibles au total
+- Science: 7240 tokens (9.7%)
+  * 9 articles principaux (2008 tokens)
+  * 40 articles de sous-catégories (5232 tokens)
+  * 9 articles disponibles au total
+- Sports: 1765 tokens (2.4%)
+  * 1 articles principaux (400 tokens)
+  * 10 articles de sous-catégories (1365 tokens)
+  * 1 articles disponibles au total
+
+Longueur moyenne des articles: 228.3 tokens/article
+Articles limités à 1000 tokens: 5 (1.5%)

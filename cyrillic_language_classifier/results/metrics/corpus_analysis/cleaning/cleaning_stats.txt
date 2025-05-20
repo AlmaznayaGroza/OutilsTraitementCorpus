@@ -1,0 +1,170 @@
+=== Statistiques de nettoyage du corpus ===
+
+Nombre d'articles originaux: 10050
+Doublons supprimés: 0
+Outliers supprimés: 883
+Articles conservés: 9167
+
+Statistiques par langue:
+
+rue:
+  Articles originaux: 339
+  Doublons supprimés: 0
+  Outliers supprimés: 18
+  Articles conservés: 321
+
+uk:
+  Articles originaux: 240
+  Doublons supprimés: 0
+  Outliers supprimés: 0
+  Articles conservés: 240
+
+ru:
+  Articles originaux: 221
+  Doublons supprimés: 0
+  Outliers supprimés: 0
+  Articles conservés: 221
+
+myv:
+  Articles originaux: 553
+  Doublons supprimés: 0
+  Outliers supprimés: 52
+  Articles conservés: 501
+
+be:
+  Articles originaux: 204
+  Doublons supprimés: 0
+  Outliers supprimés: 20
+  Articles conservés: 184
+
+koi:
+  Articles originaux: 723
+  Doublons supprimés: 0
+  Outliers supprimés: 94
+  Articles conservés: 629
+
+kv:
+  Articles originaux: 341
+  Doublons supprimés: 0
+  Outliers supprimés: 31
+  Articles conservés: 310
+
+ab:
+  Articles originaux: 747
+  Doublons supprimés: 0
+  Outliers supprimés: 122
+  Articles conservés: 625
+
+kbd:
+  Articles originaux: 516
+  Doublons supprimés: 0
+  Outliers supprimés: 42
+  Articles conservés: 474
+
+bxr:
+  Articles originaux: 382
+  Doublons supprimés: 0
+  Outliers supprimés: 29
+  Articles conservés: 353
+
+mk:
+  Articles originaux: 221
+  Doublons supprimés: 0
+  Outliers supprimés: 0
+  Articles conservés: 221
+
+udm:
+  Articles originaux: 328
+  Doublons supprimés: 0
+  Outliers supprimés: 14
+  Articles conservés: 314
+
+mhr:
+  Articles originaux: 418
+  Doublons supprimés: 0
+  Outliers supprimés: 42
+  Articles conservés: 376
+
+tg:
+  Articles originaux: 320
+  Doublons supprimés: 0
+  Outliers supprimés: 31
+  Articles conservés: 289
+
+ba:
+  Articles originaux: 240
+  Doublons supprimés: 0
+  Outliers supprimés: 0
+  Articles conservés: 240
+
+mn:
+  Articles originaux: 315
+  Doublons supprimés: 0
+  Outliers supprimés: 38
+  Articles conservés: 277
+
+sah:
+  Articles originaux: 351
+  Doublons supprimés: 0
+  Outliers supprimés: 30
+  Articles conservés: 321
+
+kk:
+  Articles originaux: 450
+  Doublons supprimés: 0
+  Outliers supprimés: 59
+  Articles conservés: 391
+
+be-tarask:
+  Articles originaux: 188
+  Doublons supprimés: 0
+  Outliers supprimés: 16
+  Articles conservés: 172
+
+os:
+  Articles originaux: 374
+  Doublons supprimés: 0
+  Outliers supprimés: 22
+  Articles conservés: 352
+
+bg:
+  Articles originaux: 284
+  Doublons supprimés: 0
+  Outliers supprimés: 32
+  Articles conservés: 252
+
+ce:
+  Articles originaux: 418
+  Doublons supprimés: 0
+  Outliers supprimés: 36
+  Articles conservés: 382
+
+ky:
+  Articles originaux: 396
+  Doublons supprimés: 0
+  Outliers supprimés: 46
+  Articles conservés: 350
+
+sr:
+  Articles originaux: 220
+  Doublons supprimés: 0
+  Outliers supprimés: 0
+  Articles conservés: 220
+
+tyv:
+  Articles originaux: 286
+  Doublons supprimés: 0
+  Outliers supprimés: 23
+  Articles conservés: 263
+
+tt:
+  Articles originaux: 496
+  Doublons supprimés: 0
+  Outliers supprimés: 43
+  Articles conservés: 453
+
+cv:
+  Articles originaux: 479
+  Doublons supprimés: 0
+  Outliers supprimés: 43
+  Articles conservés: 436

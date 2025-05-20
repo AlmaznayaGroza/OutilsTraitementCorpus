@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR tyv ===
+Temps d'exécution: 18.8 minutes
+Total d'articles: 286
+Total de tokens: 99641/100000 (99.6%)
+Répartition réelle des tokens:
+- Catégories principales: 23305 tokens (23.4%)
+- Sous-catégories: 35864 tokens (36.0%)
+- Articles aléatoires: 40472 tokens (40.6%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 8535 tokens (36.6%)
+- Articles aléatoires: 14770 tokens (63.4%)
+
+Statistiques par catégorie:
+- Culture: 12874 tokens (12.9%)
+  * 9 articles principaux (3833 tokens)
+  * 29 articles de sous-catégories (9041 tokens)
+  * 9 articles disponibles au total
+- History: 15993 tokens (16.1%)
+  * 12 articles principaux (6844 tokens)
+  * 17 articles de sous-catégories (9149 tokens)
+  * 12 articles disponibles au total
+- Geography: 15138 tokens (15.2%)
+  * 21 articles principaux (6347 tokens)
+  * 26 articles de sous-catégories (8791 tokens)
+  * 5 articles disponibles au total
+- Politics: 0 tokens (0.0%)
+  * 0 articles principaux (0 tokens)
+  * 0 articles de sous-catégories (0 tokens)
+  * 0 articles disponibles au total
+- People: 0 tokens (0.0%)
+  * 0 articles principaux (0 tokens)
+  * 0 articles de sous-catégories (0 tokens)
+  * 0 articles disponibles au total
+- Science: 0 tokens (0.0%)
+  * 0 articles principaux (0 tokens)
+  * 0 articles de sous-catégories (0 tokens)
+  * 0 articles disponibles au total
+- Sports: 15164 tokens (15.2%)
+  * 18 articles principaux (6281 tokens)
+  * 47 articles de sous-catégories (8883 tokens)
+  * 5 articles disponibles au total
+
+Longueur moyenne des articles: 348.4 tokens/article
+Articles limités à 1000 tokens: 23 (8.0%)

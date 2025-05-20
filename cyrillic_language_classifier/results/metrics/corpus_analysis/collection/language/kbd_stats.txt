@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR kbd ===
+Temps d'exécution: 29.1 minutes
+Total d'articles: 292
+Total de tokens: 59198/75000 (78.9%)
+Répartition réelle des tokens:
+- Catégories principales: 4780 tokens (8.1%)
+- Sous-catégories: 16822 tokens (28.4%)
+- Articles aléatoires: 37596 tokens (63.5%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 4264 tokens (89.2%)
+- Articles aléatoires: 516 tokens (10.8%)
+
+Statistiques par catégorie:
+- Culture: 972 tokens (1.6%)
+  * 0 articles principaux (0 tokens)
+  * 3 articles de sous-catégories (972 tokens)
+  * 0 articles disponibles au total
+- History: 7736 tokens (13.1%)
+  * 2 articles principaux (1937 tokens)
+  * 10 articles de sous-catégories (5799 tokens)
+  * 5 articles disponibles au total
+- Geography: 6379 tokens (10.8%)
+  * 5 articles principaux (1376 tokens)
+  * 30 articles de sous-catégories (5003 tokens)
+  * 5 articles disponibles au total
+- Politics: 51 tokens (0.1%)
+  * 1 articles principaux (51 tokens)
+  * 0 articles de sous-catégories (0 tokens)
+  * 1 articles disponibles au total
+- People: 5048 tokens (8.5%)
+  * 0 articles principaux (0 tokens)
+  * 16 articles de sous-catégories (5048 tokens)
+  * 0 articles disponibles au total
+- Science: 0 tokens (0.0%)
+  * 0 articles principaux (0 tokens)
+  * 0 articles de sous-catégories (0 tokens)
+  * 0 articles disponibles au total
+- Sports: 1416 tokens (2.4%)
+  * 1 articles principaux (1416 tokens)
+  * 0 articles de sous-catégories (0 tokens)
+  * 2 articles disponibles au total
+
+Longueur moyenne des articles: 202.7 tokens/article
+Articles limités à 1500 tokens: 3 (1.0%)

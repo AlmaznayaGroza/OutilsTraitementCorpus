@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR tg ===
+Temps d'exécution: 48.9 minutes
+Total d'articles: 320
+Total de tokens: 96411/100000 (96.4%)
+Répartition réelle des tokens:
+- Catégories principales: 19337 tokens (20.1%)
+- Sous-catégories: 36815 tokens (38.2%)
+- Articles aléatoires: 40259 tokens (41.8%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 7980 tokens (41.3%)
+- Articles aléatoires: 11357 tokens (58.7%)
+
+Statistiques par catégorie:
+- Culture: 7597 tokens (7.9%)
+  * 11 articles principaux (2512 tokens)
+  * 13 articles de sous-catégories (5085 tokens)
+  * 11 articles disponibles au total
+- History: 9140 tokens (9.5%)
+  * 11 articles principaux (3997 tokens)
+  * 15 articles de sous-catégories (5143 tokens)
+  * 12 articles disponibles au total
+- Geography: 9586 tokens (9.9%)
+  * 10 articles principaux (3822 tokens)
+  * 10 articles de sous-catégories (5764 tokens)
+  * 13 articles disponibles au total
+- Politics: 5937 tokens (6.2%)
+  * 5 articles principaux (904 tokens)
+  * 15 articles de sous-catégories (5033 tokens)
+  * 5 articles disponibles au total
+- People: 5687 tokens (5.9%)
+  * 1 articles principaux (115 tokens)
+  * 12 articles de sous-catégories (5572 tokens)
+  * 1 articles disponibles au total
+- Science: 9261 tokens (9.6%)
+  * 10 articles principaux (4076 tokens)
+  * 23 articles de sous-catégories (5185 tokens)
+  * 10 articles disponibles au total
+- Sports: 8944 tokens (9.3%)
+  * 12 articles principaux (3911 tokens)
+  * 10 articles de sous-catégories (5033 tokens)
+  * 12 articles disponibles au total
+
+Longueur moyenne des articles: 301.3 tokens/article
+Articles limités à 1000 tokens: 26 (8.1%)

@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR koi ===
+Temps d'exécution: 75.5 minutes
+Total d'articles: 343
+Total de tokens: 72445/80000 (90.6%)
+Répartition réelle des tokens:
+- Catégories principales: 1806 tokens (2.5%)
+- Sous-catégories: 30617 tokens (42.3%)
+- Articles aléatoires: 40022 tokens (55.2%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 1384 tokens (76.6%)
+- Articles aléatoires: 422 tokens (23.4%)
+
+Statistiques par catégorie:
+- Culture: 6510 tokens (9.0%)
+  * 0 articles principaux (0 tokens)
+  * 17 articles de sous-catégories (6510 tokens)
+  * 0 articles disponibles au total
+- History: 1499 tokens (2.1%)
+  * 0 articles principaux (0 tokens)
+  * 4 articles de sous-catégories (1499 tokens)
+  * 0 articles disponibles au total
+- Geography: 7676 tokens (10.6%)
+  * 3 articles principaux (1740 tokens)
+  * 9 articles de sous-catégories (5936 tokens)
+  * 5 articles disponibles au total
+- Politics: 5356 tokens (7.4%)
+  * 0 articles principaux (0 tokens)
+  * 28 articles de sous-catégories (5356 tokens)
+  * 0 articles disponibles au total
+- People: 6015 tokens (8.3%)
+  * 1 articles principaux (66 tokens)
+  * 24 articles de sous-catégories (5949 tokens)
+  * 1 articles disponibles au total
+- Science: 5367 tokens (7.4%)
+  * 0 articles principaux (0 tokens)
+  * 26 articles de sous-catégories (5367 tokens)
+  * 0 articles disponibles au total
+- Sports: 0 tokens (0.0%)
+  * 0 articles principaux (0 tokens)
+  * 0 articles de sous-catégories (0 tokens)
+  * 0 articles disponibles au total
+
+Longueur moyenne des articles: 211.2 tokens/article
+Articles limités à 1250 tokens: 10 (2.9%)

@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR ba ===
+Temps d'exécution: 47.2 minutes
+Total d'articles: 240
+Total de tokens: 99511/100000 (99.5%)
+Répartition réelle des tokens:
+- Catégories principales: 21148 tokens (21.3%)
+- Sous-catégories: 37886 tokens (38.1%)
+- Articles aléatoires: 40477 tokens (40.7%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 9642 tokens (45.6%)
+- Articles aléatoires: 11506 tokens (54.4%)
+
+Statistiques par catégorie:
+- Culture: 9247 tokens (9.3%)
+  * 7 articles principaux (3621 tokens)
+  * 9 articles de sous-catégories (5626 tokens)
+  * 8 articles disponibles au total
+- History: 9636 tokens (9.7%)
+  * 6 articles principaux (3965 tokens)
+  * 8 articles de sous-catégories (5671 tokens)
+  * 6 articles disponibles au total
+- Geography: 7997 tokens (8.0%)
+  * 5 articles principaux (2799 tokens)
+  * 15 articles de sous-catégories (5198 tokens)
+  * 5 articles disponibles au total
+- Politics: 7348 tokens (7.4%)
+  * 4 articles principaux (2295 tokens)
+  * 10 articles de sous-catégories (5053 tokens)
+  * 4 articles disponibles au total
+- People: 6148 tokens (6.2%)
+  * 1 articles principaux (919 tokens)
+  * 11 articles de sous-catégories (5229 tokens)
+  * 1 articles disponibles au total
+- Science: 9242 tokens (9.3%)
+  * 5 articles principaux (3954 tokens)
+  * 6 articles de sous-catégories (5288 tokens)
+  * 5 articles disponibles au total
+- Sports: 9416 tokens (9.5%)
+  * 10 articles principaux (3595 tokens)
+  * 13 articles de sous-catégories (5821 tokens)
+  * 12 articles disponibles au total
+
+Longueur moyenne des articles: 414.6 tokens/article
+Articles limités à 1000 tokens: 34 (14.2%)

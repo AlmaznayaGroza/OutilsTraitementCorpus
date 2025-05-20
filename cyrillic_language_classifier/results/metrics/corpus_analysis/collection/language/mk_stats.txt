@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR mk ===
+Temps d'exécution: 69.5 minutes
+Total d'articles: 221
+Total de tokens: 102053/100000 (102.1%)
+Répartition réelle des tokens:
+- Catégories principales: 23446 tokens (23.0%)
+- Sous-catégories: 37713 tokens (37.0%)
+- Articles aléatoires: 40894 tokens (40.1%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 11097 tokens (47.3%)
+- Articles aléatoires: 12349 tokens (52.7%)
+
+Statistiques par catégorie:
+- Culture: 9288 tokens (9.1%)
+  * 6 articles principaux (4225 tokens)
+  * 7 articles de sous-catégories (5063 tokens)
+  * 6 articles disponibles au total
+- History: 8314 tokens (8.1%)
+  * 7 articles principaux (2331 tokens)
+  * 13 articles de sous-catégories (5983 tokens)
+  * 7 articles disponibles au total
+- Geography: 9053 tokens (8.9%)
+  * 8 articles principaux (3649 tokens)
+  * 15 articles de sous-catégories (5404 tokens)
+  * 11 articles disponibles au total
+- Politics: 8940 tokens (8.8%)
+  * 10 articles principaux (3772 tokens)
+  * 8 articles de sous-catégories (5168 tokens)
+  * 10 articles disponibles au total
+- People: 6731 tokens (6.6%)
+  * 3 articles principaux (1433 tokens)
+  * 13 articles de sous-catégories (5298 tokens)
+  * 3 articles disponibles au total
+- Science: 9740 tokens (9.5%)
+  * 8 articles principaux (3987 tokens)
+  * 9 articles de sous-catégories (5753 tokens)
+  * 9 articles disponibles au total
+- Sports: 9093 tokens (8.9%)
+  * 8 articles principaux (4049 tokens)
+  * 16 articles de sous-catégories (5044 tokens)
+  * 8 articles disponibles au total
+
+Longueur moyenne des articles: 461.8 tokens/article
+Articles limités à 1000 tokens: 48 (21.7%)

@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR ky ===
+Temps d'exécution: 36.8 minutes
+Total d'articles: 396
+Total de tokens: 102725/100000 (102.7%)
+Répartition réelle des tokens:
+- Catégories principales: 25182 tokens (24.5%)
+- Sous-catégories: 37383 tokens (36.4%)
+- Articles aléatoires: 40160 tokens (39.1%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 11838 tokens (47.0%)
+- Articles aléatoires: 13344 tokens (53.0%)
+
+Statistiques par catégorie:
+- Culture: 8850 tokens (8.6%)
+  * 15 articles principaux (3600 tokens)
+  * 10 articles de sous-catégories (5250 tokens)
+  * 15 articles disponibles au total
+- History: 9169 tokens (8.9%)
+  * 13 articles principaux (3921 tokens)
+  * 13 articles de sous-catégories (5248 tokens)
+  * 5 articles disponibles au total
+- Geography: 8915 tokens (8.7%)
+  * 25 articles principaux (3877 tokens)
+  * 26 articles de sous-catégories (5038 tokens)
+  * 5 articles disponibles au total
+- Politics: 9413 tokens (9.2%)
+  * 10 articles principaux (4245 tokens)
+  * 7 articles de sous-catégories (5168 tokens)
+  * 12 articles disponibles au total
+- People: 7589 tokens (7.4%)
+  * 2 articles principaux (1617 tokens)
+  * 13 articles de sous-catégories (5972 tokens)
+  * 2 articles disponibles au total
+- Science: 9340 tokens (9.1%)
+  * 13 articles principaux (3991 tokens)
+  * 9 articles de sous-catégories (5349 tokens)
+  * 14 articles disponibles au total
+- Sports: 9289 tokens (9.0%)
+  * 12 articles principaux (3931 tokens)
+  * 16 articles de sous-catégories (5358 tokens)
+  * 12 articles disponibles au total
+
+Longueur moyenne des articles: 259.4 tokens/article
+Articles limités à 1000 tokens: 26 (6.6%)

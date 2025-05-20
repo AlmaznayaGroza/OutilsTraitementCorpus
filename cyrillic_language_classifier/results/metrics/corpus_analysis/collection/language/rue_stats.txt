@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR rue ===
+Temps d'exécution: 34.3 minutes
+Total d'articles: 339
+Total de tokens: 85254/100000 (85.3%)
+Répartition réelle des tokens:
+- Catégories principales: 8965 tokens (10.5%)
+- Sous-catégories: 36235 tokens (42.5%)
+- Articles aléatoires: 40054 tokens (47.0%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 5561 tokens (62.0%)
+- Articles aléatoires: 3404 tokens (38.0%)
+
+Statistiques par catégorie:
+- Culture: 9530 tokens (11.2%)
+  * 11 articles principaux (3913 tokens)
+  * 18 articles de sous-catégories (5617 tokens)
+  * 11 articles disponibles au total
+- History: 6086 tokens (7.1%)
+  * 5 articles principaux (888 tokens)
+  * 11 articles de sous-catégories (5198 tokens)
+  * 5 articles disponibles au total
+- Geography: 6736 tokens (7.9%)
+  * 10 articles principaux (1701 tokens)
+  * 23 articles de sous-catégories (5035 tokens)
+  * 10 articles disponibles au total
+- Politics: 6210 tokens (7.3%)
+  * 5 articles principaux (1114 tokens)
+  * 9 articles de sous-catégories (5096 tokens)
+  * 5 articles disponibles au total
+- People: 5303 tokens (6.2%)
+  * 1 articles principaux (97 tokens)
+  * 18 articles de sous-catégories (5206 tokens)
+  * 1 articles disponibles au total
+- Science: 5916 tokens (6.9%)
+  * 5 articles principaux (868 tokens)
+  * 23 articles de sous-catégories (5048 tokens)
+  * 5 articles disponibles au total
+- Sports: 5419 tokens (6.4%)
+  * 4 articles principaux (384 tokens)
+  * 21 articles de sous-catégories (5035 tokens)
+  * 4 articles disponibles au total
+
+Longueur moyenne des articles: 251.5 tokens/article
+Articles limités à 1000 tokens: 5 (1.5%)

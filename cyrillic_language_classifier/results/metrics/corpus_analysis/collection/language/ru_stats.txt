@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR ru ===
+Temps d'exécution: 55.2 minutes
+Total d'articles: 221
+Total de tokens: 102519/100000 (102.5%)
+Répartition réelle des tokens:
+- Catégories principales: 23582 tokens (23.0%)
+- Sous-catégories: 38713 tokens (37.8%)
+- Articles aléatoires: 40224 tokens (39.2%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 10394 tokens (44.1%)
+- Articles aléatoires: 13188 tokens (55.9%)
+
+Statistiques par catégorie:
+- Culture: 9629 tokens (9.4%)
+  * 4 articles principaux (3989 tokens)
+  * 11 articles de sous-catégories (5640 tokens)
+  * 5 articles disponibles au total
+- History: 10081 tokens (9.8%)
+  * 7 articles principaux (4101 tokens)
+  * 9 articles de sous-catégories (5980 tokens)
+  * 7 articles disponibles au total
+- Geography: 9906 tokens (9.7%)
+  * 9 articles principaux (4421 tokens)
+  * 8 articles de sous-catégories (5485 tokens)
+  * 9 articles disponibles au total
+- Politics: 9193 tokens (9.0%)
+  * 7 articles principaux (3631 tokens)
+  * 7 articles de sous-catégories (5562 tokens)
+  * 8 articles disponibles au total
+- People: 5683 tokens (5.5%)
+  * 0 articles principaux (0 tokens)
+  * 11 articles de sous-catégories (5683 tokens)
+  * 0 articles disponibles au total
+- Science: 8697 tokens (8.5%)
+  * 6 articles principaux (3627 tokens)
+  * 12 articles de sous-catégories (5070 tokens)
+  * 7 articles disponibles au total
+- Sports: 9106 tokens (8.9%)
+  * 6 articles principaux (3813 tokens)
+  * 15 articles de sous-catégories (5293 tokens)
+  * 9 articles disponibles au total
+
+Longueur moyenne des articles: 463.9 tokens/article
+Articles limités à 1000 tokens: 36 (16.3%)

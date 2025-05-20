@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR mhr ===
+Temps d'exécution: 102.4 minutes
+Total d'articles: 244
+Total de tokens: 54242/60000 (90.4%)
+Répartition réelle des tokens:
+- Catégories principales: 2664 tokens (4.9%)
+- Sous-catégories: 23841 tokens (44.0%)
+- Articles aléatoires: 27737 tokens (51.1%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 2483 tokens (93.2%)
+- Articles aléatoires: 181 tokens (6.8%)
+
+Statistiques par catégorie:
+- Culture: 4000 tokens (7.4%)
+  * 0 articles principaux (0 tokens)
+  * 11 articles de sous-catégories (4000 tokens)
+  * 0 articles disponibles au total
+- History: 714 tokens (1.3%)
+  * 1 articles principaux (306 tokens)
+  * 1 articles de sous-catégories (408 tokens)
+  * 1 articles disponibles au total
+- Geography: 2421 tokens (4.5%)
+  * 2 articles principaux (511 tokens)
+  * 15 articles de sous-catégories (1910 tokens)
+  * 2 articles disponibles au total
+- Politics: 4135 tokens (7.6%)
+  * 1 articles principaux (78 tokens)
+  * 28 articles de sous-catégories (4057 tokens)
+  * 1 articles disponibles au total
+- People: 4623 tokens (8.5%)
+  * 2 articles principaux (698 tokens)
+  * 8 articles de sous-catégories (3925 tokens)
+  * 2 articles disponibles au total
+- Science: 5259 tokens (9.7%)
+  * 1 articles principaux (104 tokens)
+  * 11 articles de sous-catégories (5155 tokens)
+  * 1 articles disponibles au total
+- Sports: 5353 tokens (9.9%)
+  * 3 articles principaux (967 tokens)
+  * 12 articles de sous-catégories (4386 tokens)
+  * 6 articles disponibles au total
+
+Longueur moyenne des articles: 222.3 tokens/article
+Articles limités à 1500 tokens: 4 (1.6%)

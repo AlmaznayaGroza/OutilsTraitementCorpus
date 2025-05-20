@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR bg ===
+Temps d'exécution: 55.9 minutes
+Total d'articles: 284
+Total de tokens: 98552/100000 (98.6%)
+Répartition réelle des tokens:
+- Catégories principales: 21419 tokens (21.7%)
+- Sous-catégories: 36511 tokens (37.0%)
+- Articles aléatoires: 40622 tokens (41.2%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 9571 tokens (44.7%)
+- Articles aléatoires: 11848 tokens (55.3%)
+
+Statistiques par catégorie:
+- Culture: 9285 tokens (9.4%)
+  * 6 articles principaux (3953 tokens)
+  * 14 articles de sous-catégories (5332 tokens)
+  * 7 articles disponibles au total
+- History: 8619 tokens (8.7%)
+  * 11 articles principaux (3586 tokens)
+  * 16 articles de sous-catégories (5033 tokens)
+  * 12 articles disponibles au total
+- Geography: 9130 tokens (9.3%)
+  * 10 articles principaux (3718 tokens)
+  * 11 articles de sous-catégories (5412 tokens)
+  * 10 articles disponibles au total
+- Politics: 8952 tokens (9.1%)
+  * 8 articles principaux (3839 tokens)
+  * 10 articles de sous-catégories (5113 tokens)
+  * 11 articles disponibles au total
+- People: 5562 tokens (5.6%)
+  * 1 articles principaux (200 tokens)
+  * 19 articles de sous-catégories (5362 tokens)
+  * 1 articles disponibles au total
+- Science: 8800 tokens (8.9%)
+  * 9 articles principaux (3624 tokens)
+  * 15 articles de sous-catégories (5176 tokens)
+  * 12 articles disponibles au total
+- Sports: 7582 tokens (7.7%)
+  * 6 articles principaux (2499 tokens)
+  * 16 articles de sous-catégories (5083 tokens)
+  * 6 articles disponibles au total
+
+Longueur moyenne des articles: 347.0 tokens/article
+Articles limités à 1000 tokens: 31 (10.9%)

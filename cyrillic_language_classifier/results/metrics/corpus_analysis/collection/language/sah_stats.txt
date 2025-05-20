@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR sah ===
+Temps d'exécution: 36.0 minutes
+Total d'articles: 351
+Total de tokens: 102394/100000 (102.4%)
+Répartition réelle des tokens:
+- Catégories principales: 24700 tokens (24.1%)
+- Sous-catégories: 37662 tokens (36.8%)
+- Articles aléatoires: 40032 tokens (39.1%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 9891 tokens (40.0%)
+- Articles aléatoires: 14809 tokens (60.0%)
+
+Statistiques par catégorie:
+- Culture: 9385 tokens (9.2%)
+  * 17 articles principaux (3973 tokens)
+  * 18 articles de sous-catégories (5412 tokens)
+  * 5 articles disponibles au total
+- History: 9878 tokens (9.6%)
+  * 9 articles principaux (4292 tokens)
+  * 17 articles de sous-catégories (5586 tokens)
+  * 9 articles disponibles au total
+- Geography: 8795 tokens (8.6%)
+  * 22 articles principaux (3770 tokens)
+  * 21 articles de sous-catégories (5025 tokens)
+  * 5 articles disponibles au total
+- Politics: 9127 tokens (8.9%)
+  * 16 articles principaux (4106 tokens)
+  * 21 articles de sous-catégories (5021 tokens)
+  * 1 articles disponibles au total
+- People: 6426 tokens (6.3%)
+  * 2 articles principaux (882 tokens)
+  * 21 articles de sous-catégories (5544 tokens)
+  * 2 articles disponibles au total
+- Science: 9881 tokens (9.6%)
+  * 5 articles principaux (3993 tokens)
+  * 18 articles de sous-catégories (5888 tokens)
+  * 6 articles disponibles au total
+- Sports: 8870 tokens (8.7%)
+  * 13 articles principaux (3684 tokens)
+  * 23 articles de sous-catégories (5186 tokens)
+  * 13 articles disponibles au total
+
+Longueur moyenne des articles: 291.7 tokens/article
+Articles limités à 1000 tokens: 17 (4.8%)

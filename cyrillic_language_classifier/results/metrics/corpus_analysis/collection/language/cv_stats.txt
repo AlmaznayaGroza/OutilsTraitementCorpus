@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR cv ===
+Temps d'exécution: 53.1 minutes
+Total d'articles: 479
+Total de tokens: 99954/100000 (100.0%)
+Répartition réelle des tokens:
+- Catégories principales: 23103 tokens (23.1%)
+- Sous-catégories: 36734 tokens (36.8%)
+- Articles aléatoires: 40117 tokens (40.1%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 7393 tokens (32.0%)
+- Articles aléatoires: 15710 tokens (68.0%)
+
+Statistiques par catégorie:
+- Culture: 9382 tokens (9.4%)
+  * 14 articles principaux (3876 tokens)
+  * 19 articles de sous-catégories (5506 tokens)
+  * 14 articles disponibles au total
+- History: 8627 tokens (8.6%)
+  * 18 articles principaux (3594 tokens)
+  * 16 articles de sous-catégories (5033 tokens)
+  * 5 articles disponibles au total
+- Geography: 8757 tokens (8.8%)
+  * 17 articles principaux (3686 tokens)
+  * 21 articles de sous-catégories (5071 tokens)
+  * 5 articles disponibles au total
+- Politics: 8930 tokens (8.9%)
+  * 11 articles principaux (3903 tokens)
+  * 19 articles de sous-catégories (5027 tokens)
+  * 11 articles disponibles au total
+- People: 5939 tokens (5.9%)
+  * 1 articles principaux (776 tokens)
+  * 26 articles de sous-catégories (5163 tokens)
+  * 1 articles disponibles au total
+- Science: 8723 tokens (8.7%)
+  * 22 articles principaux (3654 tokens)
+  * 26 articles de sous-catégories (5069 tokens)
+  * 5 articles disponibles au total
+- Sports: 9479 tokens (9.5%)
+  * 20 articles principaux (3614 tokens)
+  * 26 articles de sous-catégories (5865 tokens)
+  * 5 articles disponibles au total
+
+Longueur moyenne des articles: 208.7 tokens/article
+Articles limités à 1000 tokens: 8 (1.7%)

@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR bxr ===
+Temps d'exécution: 27.0 minutes
+Total d'articles: 288
+Total de tokens: 87801/100000 (87.8%)
+Répartition réelle des tokens:
+- Catégories principales: 16888 tokens (19.2%)
+- Sous-catégories: 30900 tokens (35.2%)
+- Articles aléatoires: 40013 tokens (45.6%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 9259 tokens (54.8%)
+- Articles aléatoires: 7629 tokens (45.2%)
+
+Statistiques par catégorie:
+- Culture: 6030 tokens (6.9%)
+  * 4 articles principaux (2311 tokens)
+  * 17 articles de sous-catégories (3719 tokens)
+  * 4 articles disponibles au total
+- History: 9215 tokens (10.5%)
+  * 8 articles principaux (3615 tokens)
+  * 14 articles de sous-catégories (5600 tokens)
+  * 11 articles disponibles au total
+- Geography: 8651 tokens (9.9%)
+  * 13 articles principaux (3474 tokens)
+  * 18 articles de sous-catégories (5177 tokens)
+  * 13 articles disponibles au total
+- Politics: 8502 tokens (9.7%)
+  * 19 articles principaux (3262 tokens)
+  * 14 articles de sous-catégories (5240 tokens)
+  * 4 articles disponibles au total
+- People: 6355 tokens (7.2%)
+  * 3 articles principaux (643 tokens)
+  * 14 articles de sous-catégories (5712 tokens)
+  * 1 articles disponibles au total
+- Science: 8250 tokens (9.4%)
+  * 6 articles principaux (2798 tokens)
+  * 21 articles de sous-catégories (5452 tokens)
+  * 6 articles disponibles au total
+- Sports: 785 tokens (0.9%)
+  * 5 articles principaux (785 tokens)
+  * 0 articles de sous-catégories (0 tokens)
+  * 5 articles disponibles au total
+
+Longueur moyenne des articles: 304.9 tokens/article
+Articles limités à 1000 tokens: 16 (5.6%)

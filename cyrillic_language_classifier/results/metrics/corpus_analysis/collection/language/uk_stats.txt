@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR uk ===
+Temps d'exécution: 64.5 minutes
+Total d'articles: 240
+Total de tokens: 101855/100000 (101.9%)
+Répartition réelle des tokens:
+- Catégories principales: 25029 tokens (24.6%)
+- Sous-catégories: 36179 tokens (35.5%)
+- Articles aléatoires: 40647 tokens (39.9%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 11775 tokens (47.0%)
+- Articles aléatoires: 13254 tokens (53.0%)
+
+Statistiques par catégorie:
+- Culture: 8799 tokens (8.6%)
+  * 4 articles principaux (3777 tokens)
+  * 10 articles de sous-catégories (5022 tokens)
+  * 5 articles disponibles au total
+- History: 7055 tokens (6.9%)
+  * 5 articles principaux (2008 tokens)
+  * 8 articles de sous-catégories (5047 tokens)
+  * 5 articles disponibles au total
+- Geography: 9215 tokens (9.0%)
+  * 6 articles principaux (3863 tokens)
+  * 11 articles de sous-catégories (5352 tokens)
+  * 7 articles disponibles au total
+- Politics: 8955 tokens (8.8%)
+  * 5 articles principaux (3920 tokens)
+  * 12 articles de sous-catégories (5035 tokens)
+  * 7 articles disponibles au total
+- People: 8839 tokens (8.7%)
+  * 7 articles principaux (3756 tokens)
+  * 10 articles de sous-catégories (5083 tokens)
+  * 7 articles disponibles au total
+- Science: 9001 tokens (8.8%)
+  * 5 articles principaux (3948 tokens)
+  * 8 articles de sous-catégories (5053 tokens)
+  * 6 articles disponibles au total
+- Sports: 9344 tokens (9.2%)
+  * 5 articles principaux (3757 tokens)
+  * 14 articles de sous-catégories (5587 tokens)
+  * 6 articles disponibles au total
+
+Longueur moyenne des articles: 424.4 tokens/article
+Articles limités à 1000 tokens: 37 (15.4%)

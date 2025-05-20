@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR be-tarask ===
+Temps d'exécution: 83.5 minutes
+Total d'articles: 188
+Total de tokens: 59481/60000 (99.1%)
+Répartition réelle des tokens:
+- Catégories principales: 12839 tokens (21.6%)
+- Sous-catégories: 22621 tokens (38.0%)
+- Articles aléatoires: 24021 tokens (40.4%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 6947 tokens (54.1%)
+- Articles aléatoires: 5892 tokens (45.9%)
+
+Statistiques par catégorie:
+- Culture: 5595 tokens (9.4%)
+  * 3 articles principaux (1705 tokens)
+  * 9 articles de sous-catégories (3890 tokens)
+  * 3 articles disponibles au total
+- History: 5565 tokens (9.4%)
+  * 5 articles principaux (2562 tokens)
+  * 12 articles de sous-catégories (3003 tokens)
+  * 5 articles disponibles au total
+- Geography: 5319 tokens (8.9%)
+  * 12 articles principaux (2251 tokens)
+  * 14 articles de sous-catégories (3068 tokens)
+  * 5 articles disponibles au total
+- Politics: 5516 tokens (9.3%)
+  * 8 articles principaux (2367 tokens)
+  * 9 articles de sous-catégories (3149 tokens)
+  * 8 articles disponibles au total
+- People: 4041 tokens (6.8%)
+  * 2 articles principaux (925 tokens)
+  * 7 articles de sous-catégories (3116 tokens)
+  * 2 articles disponibles au total
+- Science: 4460 tokens (7.5%)
+  * 2 articles principaux (1194 tokens)
+  * 7 articles de sous-catégories (3266 tokens)
+  * 2 articles disponibles au total
+- Sports: 4964 tokens (8.3%)
+  * 5 articles principaux (1835 tokens)
+  * 11 articles de sous-catégories (3129 tokens)
+  * 5 articles disponibles au total
+
+Longueur moyenne des articles: 316.4 tokens/article
+Articles limités à 1000 tokens: 12 (6.4%)

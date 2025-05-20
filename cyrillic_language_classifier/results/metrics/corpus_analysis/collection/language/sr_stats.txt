@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR sr ===
+Temps d'exécution: 69.7 minutes
+Total d'articles: 220
+Total de tokens: 102521/100000 (102.5%)
+Répartition réelle des tokens:
+- Catégories principales: 25029 tokens (24.4%)
+- Sous-catégories: 37368 tokens (36.4%)
+- Articles aléatoires: 40124 tokens (39.1%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 11535 tokens (46.1%)
+- Articles aléatoires: 13494 tokens (53.9%)
+
+Statistiques par catégorie:
+- Culture: 9147 tokens (8.9%)
+  * 5 articles principaux (4100 tokens)
+  * 9 articles de sous-catégories (5047 tokens)
+  * 7 articles disponibles au total
+- History: 9646 tokens (9.4%)
+  * 5 articles principaux (4058 tokens)
+  * 9 articles de sous-catégories (5588 tokens)
+  * 5 articles disponibles au total
+- Geography: 9101 tokens (8.9%)
+  * 8 articles principaux (3761 tokens)
+  * 9 articles de sous-catégories (5340 tokens)
+  * 9 articles disponibles au total
+- Politics: 8757 tokens (8.5%)
+  * 4 articles principaux (3655 tokens)
+  * 8 articles de sous-catégories (5102 tokens)
+  * 5 articles disponibles au total
+- People: 7400 tokens (7.2%)
+  * 3 articles principaux (1917 tokens)
+  * 10 articles de sous-catégories (5483 tokens)
+  * 3 articles disponibles au total
+- Science: 8915 tokens (8.7%)
+  * 10 articles principaux (3575 tokens)
+  * 7 articles de sous-catégories (5340 tokens)
+  * 11 articles disponibles au total
+- Sports: 9431 tokens (9.2%)
+  * 7 articles principaux (3963 tokens)
+  * 12 articles de sous-catégories (5468 tokens)
+  * 8 articles disponibles au total
+
+Longueur moyenne des articles: 466.0 tokens/article
+Articles limités à 1000 tokens: 53 (24.1%)

@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR ce ===
+Temps d'exécution: 93.7 minutes
+Total d'articles: 418
+Total de tokens: 79546/90000 (88.4%)
+Répartition réelle des tokens:
+- Catégories principales: 5202 tokens (6.5%)
+- Sous-catégories: 38311 tokens (48.2%)
+- Articles aléatoires: 36033 tokens (45.3%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 2796 tokens (53.7%)
+- Articles aléatoires: 2406 tokens (46.3%)
+
+Statistiques par catégorie:
+- Culture: 5942 tokens (7.5%)
+  * 0 articles principaux (0 tokens)
+  * 13 articles de sous-catégories (5942 tokens)
+  * 0 articles disponibles au total
+- History: 7087 tokens (8.9%)
+  * 2 articles principaux (1094 tokens)
+  * 10 articles de sous-catégories (5993 tokens)
+  * 2 articles disponibles au total
+- Geography: 7036 tokens (8.8%)
+  * 3 articles principaux (1773 tokens)
+  * 13 articles de sous-catégories (5263 tokens)
+  * 3 articles disponibles au total
+- Politics: 5671 tokens (7.1%)
+  * 1 articles principaux (260 tokens)
+  * 7 articles de sous-catégories (5411 tokens)
+  * 1 articles disponibles au total
+- People: 5282 tokens (6.6%)
+  * 1 articles principaux (81 tokens)
+  * 12 articles de sous-catégories (5201 tokens)
+  * 1 articles disponibles au total
+- Science: 5199 tokens (6.5%)
+  * 0 articles principaux (0 tokens)
+  * 13 articles de sous-catégories (5199 tokens)
+  * 0 articles disponibles au total
+- Sports: 7296 tokens (9.2%)
+  * 12 articles principaux (1994 tokens)
+  * 28 articles de sous-catégories (5302 tokens)
+  * 12 articles disponibles au total
+
+Longueur moyenne des articles: 190.3 tokens/article
+Articles limités à 1000 tokens: 16 (3.8%)

@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR mn ===
+Temps d'exécution: 42.8 minutes
+Total d'articles: 315
+Total de tokens: 101316/100000 (101.3%)
+Répartition réelle des tokens:
+- Catégories principales: 23308 tokens (23.0%)
+- Sous-catégories: 37897 tokens (37.4%)
+- Articles aléatoires: 40111 tokens (39.6%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 9342 tokens (40.1%)
+- Articles aléatoires: 13966 tokens (59.9%)
+
+Statistiques par catégorie:
+- Culture: 8180 tokens (8.1%)
+  * 5 articles principaux (2941 tokens)
+  * 13 articles de sous-catégories (5239 tokens)
+  * 5 articles disponibles au total
+- History: 9110 tokens (9.0%)
+  * 6 articles principaux (3926 tokens)
+  * 14 articles de sous-catégories (5184 tokens)
+  * 7 articles disponibles au total
+- Geography: 9021 tokens (8.9%)
+  * 24 articles principaux (3089 tokens)
+  * 15 articles de sous-catégories (5932 tokens)
+  * 2 articles disponibles au total
+- Politics: 9332 tokens (9.2%)
+  * 10 articles principaux (4088 tokens)
+  * 14 articles de sous-catégories (5244 tokens)
+  * 10 articles disponibles au total
+- People: 9463 tokens (9.3%)
+  * 23 articles principaux (4254 tokens)
+  * 12 articles de sous-catégories (5209 tokens)
+  * 5 articles disponibles au total
+- Science: 9544 tokens (9.4%)
+  * 12 articles principaux (3812 tokens)
+  * 13 articles de sous-catégories (5732 tokens)
+  * 12 articles disponibles au total
+- Sports: 6555 tokens (6.5%)
+  * 6 articles principaux (1198 tokens)
+  * 13 articles de sous-catégories (5357 tokens)
+  * 6 articles disponibles au total
+
+Longueur moyenne des articles: 321.6 tokens/article
+Articles limités à 1000 tokens: 26 (8.3%)

@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR ab ===
+Temps d'exécution: 164.1 minutes
+Total d'articles: 240
+Total de tokens: 77488/80000 (96.9%)
+Répartition réelle des tokens:
+- Catégories principales: 2607 tokens (3.4%)
+- Sous-catégories: 34677 tokens (44.8%)
+- Articles aléatoires: 40204 tokens (51.9%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 2607 tokens (100.0%)
+- Articles aléatoires: 0 tokens (0.0%)
+
+Statistiques par catégorie:
+- Culture: 4734 tokens (6.1%)
+  * 1 articles principaux (107 tokens)
+  * 14 articles de sous-catégories (4627 tokens)
+  * 1 articles disponibles au total
+- History: 6397 tokens (8.3%)
+  * 1 articles principaux (1250 tokens)
+  * 13 articles de sous-catégories (5147 tokens)
+  * 3 articles disponibles au total
+- Geography: 4766 tokens (6.2%)
+  * 0 articles principaux (0 tokens)
+  * 9 articles de sous-catégories (4766 tokens)
+  * 0 articles disponibles au total
+- Politics: 6315 tokens (8.1%)
+  * 1 articles principaux (1250 tokens)
+  * 11 articles de sous-catégories (5065 tokens)
+  * 2 articles disponibles au total
+- People: 5810 tokens (7.5%)
+  * 0 articles principaux (0 tokens)
+  * 14 articles de sous-catégories (5810 tokens)
+  * 0 articles disponibles au total
+- Science: 4603 tokens (5.9%)
+  * 0 articles principaux (0 tokens)
+  * 11 articles de sous-catégories (4603 tokens)
+  * 0 articles disponibles au total
+- Sports: 4659 tokens (6.0%)
+  * 0 articles principaux (0 tokens)
+  * 13 articles de sous-catégories (4659 tokens)
+  * 0 articles disponibles au total
+
+Longueur moyenne des articles: 322.9 tokens/article
+Articles limités à 1250 tokens: 29 (12.1%)

@@ -1,0 +1,45 @@
+=== STATISTIQUES FINALES POUR be ===
+Temps d'exécution: 49.6 minutes
+Total d'articles: 204
+Total de tokens: 60720/60000 (101.2%)
+Répartition réelle des tokens:
+- Catégories principales: 12360 tokens (20.4%)
+- Sous-catégories: 24119 tokens (39.7%)
+- Articles aléatoires: 24241 tokens (39.9%)
+
+Distribution dans les catégories principales:
+- Articles ordonnés: 5603 tokens (45.3%)
+- Articles aléatoires: 6757 tokens (54.7%)
+
+Statistiques par catégorie:
+- Culture: 3970 tokens (6.5%)
+  * 2 articles principaux (354 tokens)
+  * 11 articles de sous-catégories (3616 tokens)
+  * 2 articles disponibles au total
+- History: 6395 tokens (10.5%)
+  * 6 articles principaux (3093 tokens)
+  * 13 articles de sous-catégories (3302 tokens)
+  * 6 articles disponibles au total
+- Geography: 4284 tokens (7.1%)
+  * 1 articles principaux (927 tokens)
+  * 10 articles de sous-catégories (3357 tokens)
+  * 1 articles disponibles au total
+- Politics: 6111 tokens (10.1%)
+  * 5 articles principaux (2358 tokens)
+  * 8 articles de sous-catégories (3753 tokens)
+  * 5 articles disponibles au total
+- People: 6126 tokens (10.1%)
+  * 7 articles principaux (2458 tokens)
+  * 10 articles de sous-catégories (3668 tokens)
+  * 7 articles disponibles au total
+- Science: 5133 tokens (8.5%)
+  * 5 articles principaux (1907 tokens)
+  * 10 articles de sous-catégories (3226 tokens)
+  * 5 articles disponibles au total
+- Sports: 4460 tokens (7.3%)
+  * 5 articles principaux (1263 tokens)
+  * 14 articles de sous-catégories (3197 tokens)
+  * 5 articles disponibles au total
+
+Longueur moyenne des articles: 297.6 tokens/article
+Articles limités à 1000 tokens: 12 (5.9%)

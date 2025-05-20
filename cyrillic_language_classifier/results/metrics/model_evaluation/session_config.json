@@ -1,0 +1,70 @@
+{
+  "timestamp": "2025-05-19T16:15:33.453472",
+  "device": "cuda",
+  "torch_version": "2.6.0+cu124",
+  "transformers_version": "4.51.3",
+  "project_config": {
+    "base_model": "papluca/xlm-roberta-base-language-detection",
+    "max_sequence_length": 64,
+    "data_paths": {
+      "train": "/content/data/final/train/train_corpus.csv",
+      "validation": "/content/data/final/validation/validation_corpus.csv",
+      "test": "/content/data/final/test/test_corpus.csv"
+    },
+    "training_defaults": {
+      "num_epochs": 12,
+      "batch_size_train": 32,
+      "batch_size_eval": 64,
+      "learning_rate": 8e-05,
+      "warmup_steps": 200,
+      "weight_decay": 0.01
+    },
+    "analysis_config": {
+      "top_confusions_to_show": 10,
+      "min_examples_for_analysis": 5,
+      "confidence_threshold": 0.9
+    }
+  },
+  "language_groups": {
+    "Langues slaves orientales": [
+      "ru",
+      "uk",
+      "be",
+      "rue"
+    ],
+    "Langues slaves méridionales": [
+      "bg",
+      "mk",
+      "sr"
+    ],
+    "Langues turciques": [
+      "tt",
+      "ba",
+      "kk",
+      "ky"
+    ],
+    "Langues finno-ougriennes": [
+      "koi",
+      "kv",
+      "udm",
+      "mhr",
+      "myv"
+    ],
+    "Langues caucasiennes": [
+      "ab",
+      "kbd",
+      "ce"
+    ],
+    "Autres langues": [
+      "bxr",
+      "cv",
+      "mn",
+      "os",
+      "sah",
+      "tg",
+      "tyv"
+    ]
+  },
+  "total_groups": 6,
+  "total_languages_mapped": 26
+}
