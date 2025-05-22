@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-19T16:15:33.453472",
+  "timestamp": "2025-05-21T22:42:13.429525",
   "device": "cuda",
   "torch_version": "2.6.0+cu124",
   "transformers_version": "4.51.3",
@@ -40,8 +40,15 @@
     "Langues turciques": [
       "tt",
       "ba",
+      "cv",
       "kk",
-      "ky"
+      "ky",
+      "sah",
+      "tyv"
+    ],
+    "Langues iraniennes": [
+      "os",
+      "tg"
     ],
     "Langues finno-ougriennes": [
       "koi",
@@ -55,16 +62,11 @@
       "kbd",
       "ce"
     ],
-    "Autres langues": [
+    "Langues mongoles": [
       "bxr",
-      "cv",
-      "mn",
-      "os",
-      "sah",
-      "tg",
-      "tyv"
+      "mn"
     ]
   },
-  "total_groups": 6,
+  "total_groups": 7,
   "total_languages_mapped": 26
 }

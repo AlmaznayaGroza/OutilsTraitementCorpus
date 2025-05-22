@@ -1,5 +1,5 @@
 {
-  "creation_timestamp": "2025-05-19T13:50:26.455133",
+  "creation_timestamp": "2025-05-21T22:42:20.791059",
   "total_languages": 43,
   "lang_to_id": {
     "ab": 0,
@@ -151,8 +151,15 @@
     "Langues turciques": [
       "tt",
       "ba",
+      "cv",
       "kk",
-      "ky"
+      "ky",
+      "sah",
+      "tyv"
+    ],
+    "Langues iraniennes": [
+      "os",
+      "tg"
     ],
     "Langues finno-ougriennes": [
       "koi",
@@ -166,14 +173,9 @@
       "kbd",
       "ce"
     ],
-    "Autres langues": [
+    "Langues mongoles": [
       "bxr",
-      "cv",
-      "mn",
-      "os",
-      "sah",
-      "tg",
-      "tyv"
+      "mn"
     ]
   }
 }

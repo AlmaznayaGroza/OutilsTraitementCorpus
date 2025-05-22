@@ -1,0 +1,80 @@
+{
+  "model_info": {
+    "base_model": "papluca/xlm-roberta-base-language-detection",
+    "num_languages": 43,
+    "languages": [
+      "ab",
+      "ab_ce_mix",
+      "ab_kbd_mix",
+      "ba",
+      "be",
+      "be_rue_mix",
+      "bg",
+      "bg_mk_mix",
+      "bxr",
+      "ce",
+      "cv",
+      "kbd",
+      "kbd_ce_mix",
+      "kk",
+      "kk_ky_mix",
+      "koi",
+      "koi_kv_mix",
+      "kv",
+      "ky",
+      "mhr",
+      "mk",
+      "mk_sr_mix",
+      "mn",
+      "myv",
+      "myv_mhr_mix",
+      "os",
+      "ru",
+      "ru_be_mix",
+      "ru_uk_mix",
+      "rue",
+      "sah",
+      "sr",
+      "sr_bg_mix",
+      "tg",
+      "tt",
+      "tt_ba_mix",
+      "tyv",
+      "udm",
+      "udm_koi_mix",
+      "udm_kv_mix",
+      "uk",
+      "uk_be_mix",
+      "uk_rue_mix"
+    ]
+  },
+  "training_config": {
+    "num_epochs": 12,
+    "batch_size_train": 32,
+    "batch_size_eval": 64,
+    "learning_rate": 8e-05,
+    "warmup_steps": 200,
+    "weight_decay": 0.01
+  },
+  "final_performance": {
+    "train_loss": 0.0076,
+    "eval_loss": 0.012439,
+    "eval_accuracy": 0.997021,
+    "eval_top3_accuracy": 1.0,
+    "eval_avg_confidence": 0.997746,
+    "training_time_seconds": 2160,
+    "training_time_formatted": "0:36:00",
+    "num_epochs_completed": 12,
+    "final_epoch": 12
+  },
+  "dataset_info": {
+    "train_examples": 16175,
+    "validation_examples": 2014,
+    "test_examples": 2043
+  },
+  "technical_details": {
+    "device_used": "cuda",
+    "fp16_enabled": true,
+    "timestamp": "2025-05-21T23:13:12.543221"
+  }
+}

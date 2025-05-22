@@ -2,35 +2,35 @@
   "model_summary": {
     "total_languages": 43,
     "total_test_examples": 2043,
-    "overall_accuracy": 0.9931473323543808,
-    "top3_accuracy": 0.9975526186979932,
-    "average_confidence": 0.9953412413597107
+    "overall_accuracy": 0.9946157611355849,
+    "top3_accuracy": 0.9990210474791973,
+    "average_confidence": 0.996232807636261
   },
   "error_analysis_summary": {
-    "total_errors": 14,
-    "error_rate": 0.006852667645619187,
-    "intra_group_ratio": 0.14285714285714285,
+    "total_errors": 11,
+    "error_rate": 0.0053842388644150755,
+    "intra_group_ratio": 0.09090909090909091,
     "most_common_confusion": {
       "true_language": "bxr",
       "predicted_language": "sah",
       "count": 2,
-      "avg_confidence": 0.999862790107727,
-      "true_group": "Autres langues",
-      "predicted_group": "Autres langues",
-      "is_intra_group": true,
+      "avg_confidence": 0.9992583394050598,
+      "true_group": "Langues mongoles",
+      "predicted_group": "Langues turciques",
+      "is_intra_group": false,
       "error_pair_display": "bxr → sah"
     }
   },
   "performance_insights": {
-    "languages_perfect_performance": 31,
-    "calibration_quality": 0.0031160808373944283,
-    "length_robustness": 0.05677345343022873
+    "languages_perfect_performance": 33,
+    "calibration_quality": 0.0029424432149075734,
+    "length_robustness": 0.05020104937656023
   },
   "key_findings": [
-    "Précision exceptionnelle de 99.3% sur 43 langues",
-    "Excellente calibration avec ECE de 0.0031",
+    "Précision exceptionnelle de 99.5% sur 43 langues",
+    "Excellente calibration avec ECE de 0.0029",
     "Robustesse démontrée across différentes longueurs de texte",
-    "Majorité des erreurs (14.3%) entre familles linguistiques différentes",
+    "Majorité des erreurs (9.1%) entre familles linguistiques différentes",
     "Métacognition sophistiquée avec confiance réduite lors d'erreurs"
   ]
 }
