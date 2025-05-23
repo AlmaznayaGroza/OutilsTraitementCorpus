@@ -75,7 +75,8 @@ Cette approche respecte la diversité linguistique tout en optimisant l'efficaci
 
 ### Structure du projet
 
-`cyrillic_language_classifier/
+```
+cyrillic_language_classifier/
 ├── data/                                         # Données utilisées et générées par le projet
 │   ├── raw/                                      # Corpus bruts collectés depuis Wikipédia
 │   │   ├── final_corpus/                         # Corpus final par langue (27 langues)
@@ -142,7 +143,8 @@ Cette approche respecte la diversité linguistique tout en optimisant l'efficaci
 │   ├── cyrillique_collecte.log                   # Logs de collecte
 │   └── training_session_*.log                    # Logs d'entraînement
 ├── requirements.txt                              # Dépendances du projet
-└── resume_*.json                                 # États de reprise de collecte`
+└── resume_*.json                                 # États de reprise de collecte
+```
 
 
 ### Collecte du corpus
@@ -338,7 +340,7 @@ pip install -r requirements.txt
 **1. Collecte** (via l'API)
 ```bash
 PYTHONPATH=src python src/corpus/scripts/create_corpus.py
-```
+``
 
 **2. Nettoyage**
 `python src/corpus/clean_corpus.py`
