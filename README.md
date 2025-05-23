@@ -50,23 +50,100 @@ Le corpus final comporte **43 langues** au total :
 
 Cette approche permet de traiter à la fois des langues très bien dotées (russe, ukrainien, bulgare) et des langues moins représentées (komi-permyak, abkhaze, mari des prairies), contribuant ainsi à la diversité et à l'inclusivité du système.
 
+### Choix méthodologiques spécifiques
+
+#### Fusion des variantes bélarussiennes
+
+Le bélarussien présente une situation sociolinguistique unique avec 2 variantes utilisés sur Wikipédia:
+
+- `be` (**narkamoŭka** / наркамоўка): variante officielle standardisée
+- `be-tarask` (**taraškevica** / тарашкевіца): variante historique pré-soviétique
+
+##### Justification de la fusion*
+
+Cette dualité, qui est principalement orthographique et parfois aussi lexicale, ne reflète pas une différence linguistique fondamentale mais plutôt des choix politiques et culturels distincts. La fusion des 2 variantes dans le corpus final se justifie par plusieurs considérations méthodologiques:
+
+1. **Unité linguistique**: les deux variantes représentent la même langue avec des conventions orthographiques différentes, comparable aux variations entre l'anglais britannique et américain
+
+2. **Robustesse statistique**: maintenir une séparation avec les mêmes objectifs quantitatifs aurait doublé la taille des échantillons pour le bélarussien, compromettant la significativité statistique des analyses
+
+3. **Applications pratiques**: cette unification permet de créer des modèles plus robustes capables de gérer les variations orthographiques naturelles du bélarussien
+
+4. **Représentativité**: l'unification offre une représentation plus complète et équilibrée de la langue bélarussienne dans ses usages contemporains
+
+Cette approche respecte la diversité linguistique tout en optimisant l'efficacité du modèle de classification pour les applications pratiques.
+
 ### Structure du projet
 
 `cyrillic_language_classifier/
-├── data/               # Données utilisées et générées par le projet
-│   ├── raw/            # Corpus bruts collectés depuis Wikipédia
-│   ├── processed/      # Données prétraitées (train/val/test)
-│   └── final/          # Ensembles finaux (train/validation/test)
-├── src/                # Code source du projet
-│   ├── corpus/         # Scripts de collecte et préparation du corpus
-│   ├── visualization/  # Scripts de visualisation des corpus brut et augmenté
-│   ├── models/         # Scripts d'entraînement et d'évaluation
-│   └── demo/           # Scripts de démonstration
-├── results/            # Résultats d'analyse et d'évaluation
-│   ├── figures/        # Visualisations et graphiques
-│   └── metrics/        # Métriques d'évaluation
-│   └── models/         # Modèle(s) sauvegardé(s)
-└── logs/               # Journaux d'exécution`
+├── data/                                         # Données utilisées et générées par le projet
+│   ├── raw/                                      # Corpus bruts collectés depuis Wikipédia
+│   │   ├── final_corpus/                         # Corpus final par langue (27 langues)
+│   │   ├── intermediate_articles/                # Articles intermédiaires de collecte
+│   │   ├── temp_collection/                      # Collections temporaires en cours
+│   │   ├── temp_collection_final/                # Collections finales temporaires
+│   │   └── direct_scraping/                      # Données de scraping direct
+│   ├── processed/                                # Données prétraitées et transformées
+│   │   ├── cleaned/                              # Articles nettoyés par langue
+│   │   ├── merged/                               # Articles fusionnés (be + be-tarask)
+│   │   └── augmented/                            # Données augmentées pour l'entraînement
+│   │       ├── all_augmented_articles.csv
+│   │       ├── mixed_language_articles.csv
+│   │       ├── perturbed_articles.csv
+│   │       └── synthetic_articles.csv
+│   ├── final/                                    # Ensembles finaux prêts pour l'entraînement
+│   │   ├── train/                                # Données d'entraînement
+│   │   ├── validation/                           # Données de validation
+│   │   └── test/                                 # Données de test
+│   └── final.zip                                 # Archive du corpus final
+├── src/                                          # Code source du projet
+│   ├── corpus/                                   # Module de collecte et préparation du corpus
+│   │   ├── modules/                              # Modules refactorisés
+│   │   │   ├── config.py                         # Configuration adaptative par langue
+│   │   │   ├── api_utils.py                      # Utilitaires API Wikipedia
+│   │   │   ├── text_processing.py                # Traitement et validation de textes
+│   │   │   ├── article_collector.py              # Collecteur principal avec stratégies
+│   │   │   ├── data_manager.py                   # Gestion et fusion de données
+│   │   │   ├── stat_manager.py                   # Statistiques et métriques
+│   │   │   └── cache_manager.py                  # Cache pour optimiser les performances
+│   │   └── scripts/                              # Scripts de traitement de corpus
+│   │       ├── create_corpus.py                  # Script principal de collecte
+│   │       ├── collect_missing_langs.py          # Collecte complémentaire
+│   │       ├── clean_corpus.py                   # Nettoyage des données
+│   │       ├── augment_corpus.py                 # Augmentation de données
+│   │       ├── merge_belarusian.py               # Fusion des variantes bélarusses
+│   │       ├── consolidate_data.py               # Consolidation finale
+│   │       └── split_datasets.py                 # Division train/val/test
+│   ├── models/                                   # Entraînement et évaluation des modèles
+│   │   └── language_detection.ipynb              # Notebook principal d'entraînement
+│   └── visualization/                            # Scripts de visualisation et inspection
+│       ├── visualize_corpus.py                   # Visualisations de corpus
+│       └── inspect_aug_data.py                   # Inspection des données augmentées
+├── results/                                      # Résultats d'analyse et d'évaluation
+│   ├── figures/                                  # Visualisations et graphiques
+│   │   ├── corpus_analysis/                      # Analyses du corpus
+│   │   │   ├── distribution/                     # Distribution des langues et tokens
+│   │   │   ├── cleaning/                         # Impact du nettoyage
+│   │   │   └── augmentation/                     # Analyse de l'augmentation
+│   │   └── model_evaluation/                     # Évaluation des modèles
+│   ├── metrics/                                  # Métriques d'évaluation détaillées
+│   │   ├── collection/                           # Métriques de collecte
+│   │   │   ├── global/                           # Statistiques globales
+│   │   │   ├── language/                         # Statistiques par langue
+│   │   │   └── languages/                        # Analyses linguistiques
+│   │   ├── corpus_analysis/                      # Analyses approfondies du corpus
+│   │   │   ├── cleaning/                         # Métriques de nettoyage
+│   │   │   └── augmentation/                     # Métriques d'augmentation
+│   │   └── model_evaluation/                     # Évaluation des performances modèles
+│   └── models/                                   # Modèles sauvegardés et checkpoints
+│       ├── language-detection-20250521_224326/   # Modèle avec checkpoints
+│       └── language-detection-final/             # Modèle final optimisé
+├── logs/                                         # Journaux d'exécution
+│   ├── cyrillique_collecte.log                   # Logs de collecte
+│   └── training_session_*.log                    # Logs d'entraînement
+├── requirements.txt                              # Dépendances du projet
+└── resume_*.json                                 # États de reprise de collecte`
+
 
 ### Collecte du corpus
 
@@ -77,7 +154,7 @@ La collecte du corpus est réalisée via l'API de Wikipédia, en utilisant diff�
 
 Concernant la collecte de données, je souhaite apporter une clarification importante: le corpus sur lequel repose mon projet, qui comprend près de 2 millions de tokens, a été constitué en utilisant l'API de Wikipédia avant que la restriction sur l'utilisation des APIs ne soit explicitement mentionnée dans les consignes.
 Lorsque j'ai réalisé qu'on n'était pas censé utiliser d'API, j'avais déjà investi plusieurs dizaines d'heures dans le développement et l'optimisation de mon script de collecte (`create_corpus.py`), ainsi que dans le nettoyage et la préparation des données. Recommencer entièrement ce processus aurait compromis la qualité et l'ampleur de mon projet (j'avais pu constituer un corpus d'une qualité et d'une diversité vraiment intéressantes), particulièrement pour les langues cyrilliques moins représentées qui nécessitaient une stratégie de collecte spécifique. Par ailleurs, j'ai veillé lors de cette approche à bien respecter les bonnes pratiques d'extraction de données présentées en cours (respect des limitations de requêtes, identification appropriée, etc.).
-Néanmoins, j'ai développé après-coup un script complémentaire (`direct_scraping.py), qui illustre comment on pourrait collecter des textes cyrilliques sans passer par une API. Ce script, bien que moins exhaustif que ma méthode principale, implémente les techniques de web scraping requises.
+Néanmoins, j'ai développé après-coup un script complémentaire (`direct_scraping.py`MediaWiki), qui illustre comment on pourrait collecter des textes cyrilliques sans passer par une API. Ce script, bien que moins exhaustif que ma méthode principale, implémente les techniques de web scraping requises.
 
 ### Pipeline du projet
 
@@ -85,7 +162,7 @@ Le traitement des données suit un pipeline en 7 étapes, conçu pour transforme
 
 #### 1. Collecte des données
 
-##### Approche principale: API Wikipédia
+##### Approche principale: API MediaWiki
 
 **Scripts impliqués**:
 - `create_corpus.py`: script principal de collecte, implémentant la stratégie adaptative selon les groupes de langues et les 3 méthodes de collecte définies (catégories principales, sous-catégories, articles aléatoires)
@@ -259,7 +336,9 @@ pip install -r requirements.txt
 #### Reproduction du pipeline complet
 
 **1. Collecte** (via l'API)
-`python src/corpus/create_corpus.py`
+```bash
+PYTHONPATH=src python src/corpus/scripts/create_corpus.py
+```
 
 **2. Nettoyage**
 `python src/corpus/clean_corpus.py`
